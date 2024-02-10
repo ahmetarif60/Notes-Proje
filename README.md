@@ -5,3 +5,4 @@
 <h2>Proje Gifi</h2>
 
 <img src="public/Notes-App-Google-Chrome-2024-02-10-17-10-50.gif"/>
+ 
